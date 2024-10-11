@@ -2,8 +2,6 @@
 
 ### 👨‍💻 A passionate web developer from Costa Rica
 
-![Banner](https://user-images.githubusercontent.com/your-banner-link.png)
-
 I'm currently studying **Business Informatics** at university, learning new technologies, and working on exciting projects like **Sueldo sin Sorpresa** and **FitVida**. My goal is to combine my skills in programming with my passion for problem-solving and innovation.
 
 ## 🛠️ Technologies & Tools
