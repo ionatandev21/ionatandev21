@@ -2,7 +2,7 @@
 
 ### 👨‍💻 A passionate web developer from Costa Rica
 
-I'm currently studying **Business Informatics** at university, learning new technologies, and working on exciting projects like **Sueldo sin Sorpresa** and **FitVida**. My goal is to combine my skills in programming with my passion for problem-solving and innovation.
+I'm currently studying **Business Informatics** at university, learning new technologies, and working on exciting projects in React and Flutter. My goal is to combine my skills in programming with my passion for problem-solving and innovation.
 
 ## 🛠️ Technologies & Tools
 
